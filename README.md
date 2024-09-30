@@ -7,7 +7,7 @@ Progress
 | ID | Topic | Apprentice | Practitioner | Expert | 
 | --- | --- | :---: | :---: | :---: |
 | 01 | SQL injection | :white_check_mark: 2/2 | :white_check_mark: 15/15 | - |
-| 02 | Cross-site scripting (XSS) | :white_check_mark: 9/9 | :white_check_mark: 15/15 | :white_check_mark: 6/6 |
+| 02 | Cross-site scripting (XSS) | :white_check_mark: 9/9 | :white_check_mark: 15/15 | :x: 5/6 |
 | 03 | Cross-site request forgery (CSRF) | :white_check_mark: 1/1 | :white_check_mark: 11/11 | - |
 | 04 | Clickjacking | :white_check_mark: 3/3 | :white_check_mark: 2/2 | - |
 | 05 | DOM-based vulnerabilities | - | :white_check_mark: 5/5 | :white_check_mark: 2/2 |
