@@ -1,0 +1,3 @@
+zmienili zadanie. Nie ma juz 302 response tylko inny length odpowiedzi jest
+- usun ciasteczko sesji
+- jezeli to "Please enter your 4-digit security cod" przestanie wystepowac w response to jest poprawny kod
