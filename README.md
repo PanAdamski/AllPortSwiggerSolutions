@@ -1,36 +1,9 @@
 # AllPortSwiggerSolutions
-Here you will find all solutions to all tasks from the https://portswigger.net/ platform written in python
-
-# PortSwiggerSolutions
-I will more or less systematically post automatic solutions to challenges from the portswigger platform.
-https://portswigger.net/web-security/all-labs
-
-Installation
-```
-pip3 install requests re sys time socket pytesseract pyautogui http.client selenium bs4 PIL webbrowser pyjwt
-```
-```
-apt install exiftool
-```
+Here you will find all solutions to all tasks from the[ https://portswigger.net/](https://portswigger.net/web-security/all-labs) platform written in python
 
 
-In each case the script works the same way
 
-Correct
-```
-python3 solution.py https://<ID>.web-security-academy.net <collab ID>9.oastify.com
-```
-
-Wrong (I assumed that there is no `/` sign at the end of the)
-```
-python3 solution.py https://<ID>.web-security-academy.net/ <collab ID>.oastify.com
-python3 solution.py https://<ID>.web-security-academy.net http://<collab ID>.oastify.com
-python3 solution.py https://<ID>.web-security-academy.net/ http://<collab ID>.oastify.com
-python3 solution.py <ID>.web-security-academy.net http://<collab ID>.oastify.com
-python3 solution.py <ID>.web-security-academy.net/ http://<collab ID>.oastify.com
-```
-
-Raw_notes
+Progress
 | ID | Topic | Apprentice | Practitioner | Expert | 
 | --- | --- | :---: | :---: | :---: |
 | 01 | SQL injection | :white_check_mark: 2/2 | :white_check_mark: 15/15 | - |
@@ -64,4 +37,33 @@ Raw_notes
 | 29 | API testing | :white_check_mark: 1/1 | :white_check_mark: 3/3 | :white_check_mark: 1/1 |
 | 30 | Web LLM attacks | :white_check_mark: 1/1 | :x: 1/2 | :x: 0/1 |
 | 31 | Web cache deception |  :white_check_mark: 1/1 | :x: 1/3 | :x: 1/1 |
+
+
+
+
+
+Installation
+```
+pip3 install requests re sys time socket pytesseract pyautogui http.client selenium bs4 PIL webbrowser pyjwt
+```
+```
+apt install exiftool
+```
+
+
+In each case the script works the same way
+
+Correct
+```
+python3 solution.py https://<ID>.web-security-academy.net <collab ID>9.oastify.com
+```
+
+Wrong (I assumed that there is no `/` sign at the end of the)
+```
+python3 solution.py https://<ID>.web-security-academy.net/ <collab ID>.oastify.com
+python3 solution.py https://<ID>.web-security-academy.net http://<collab ID>.oastify.com
+python3 solution.py https://<ID>.web-security-academy.net/ http://<collab ID>.oastify.com
+python3 solution.py <ID>.web-security-academy.net http://<collab ID>.oastify.com
+python3 solution.py <ID>.web-security-academy.net/ http://<collab ID>.oastify.com
+```
 
