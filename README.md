@@ -28,7 +28,7 @@ Progress
 | 20 | HTTP Host header attacks | :white_check_mark: 2/2 | :x: 2/4 | :white_check_mark: 1/1 |
 | 21 | OAuth authentication | :white_check_mark: 1/1 | :white_check_mark: 4/4 | :white_check_mark: 1/1 |
 | 22 | File upload vulnerabilities | :white_check_mark: 2/2 | :white_check_mark: 4/4 | :x: 0/1 |
-| 23 | JWT  | :white_check_mark: 2/2 | :x: 2/4 | :x: 0/2 |
+| 23 | JWT  | :white_check_mark: 2/2 | :x: 3/4 | :x: 0/2 |
 | 24 | Essential skills | - | :x: 1/2 | - |
 | 25 | prototype pollution | - | :white_check_mark: 9/9 | :x: 0/1 |
 | 26 | GraphQL API vulnerabilities| :white_check_mark: 1/1 | :white_check_mark: 4/4 | - |
@@ -37,7 +37,7 @@ Progress
 | 29 | API testing | :white_check_mark: 1/1 | :white_check_mark: 3/3 | :white_check_mark: 1/1 |
 | 30 | Web LLM attacks | :white_check_mark: 1/1 | :x: 1/2 | :x: 0/1 |
 | 31 | Web cache deception |  :white_check_mark: 1/1 | :x: 1/3 | :x: 1/1 |
-| x | Overall progress| :x: 58/59 | :x: 150/171 | :x: 24/39 |
+| x | Overall progress| :x: 58/59 | :x: 151/171 | :x: 24/39 |
 
 
 
