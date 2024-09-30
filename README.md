@@ -37,7 +37,7 @@ Progress
 | 29 | API testing | :white_check_mark: 1/1 | :white_check_mark: 3/3 | :white_check_mark: 1/1 |
 | 30 | Web LLM attacks | :white_check_mark: 1/1 | :x: 1/2 | :x: 0/1 |
 | 31 | Web cache deception |  :white_check_mark: 1/1 | :x: 1/3 | :x: 1/1 |
-| x | Overall progress| :x: 58/59 | :x: 149/171 | :x: 22/39 |
+| x | Overall progress| :x: 58/59 | :x: 150/171 | :x: 24/39 |
 
 
 
