@@ -26,7 +26,7 @@ Progress
 | 18 | Information disclosure | :white_check_mark: 4/4 | :white_check_mark: 1/1 | - |
 | 19 | Business logic vulnerabilities | :white_check_mark: 4/4 | :white_check_mark: 7/7 | :x: 0/1 |
 | 20 | HTTP Host header attacks | :white_check_mark: 2/2 | :x: 2/4 | :white_check_mark: 1/1 |
-| 21 | OAuth authentication | :white_check_mark: 1/1 | :white_check_mark: 4/4 | :x: 0/1 |
+| 21 | OAuth authentication | :white_check_mark: 1/1 | :white_check_mark: 4/4 | :white_check_mark: 1/1 |
 | 22 | File upload vulnerabilities | :white_check_mark: 2/2 | :white_check_mark: 4/4 | :x: 0/1 |
 | 23 | JWT  | :white_check_mark: 2/2 | :x: 2/4 | :x: 0/2 |
 | 24 | Essential skills | - | :x: 1/2 | - |
