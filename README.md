@@ -14,7 +14,7 @@ Progress
 | 06 | Cross-origin resource sharing (CORS) | :white_check_mark: 2/2 | :white_check_mark: 1/1 | -  |
 | 07 | XML external entity (XXE) injection | :white_check_mark: 2/2 | :white_check_mark: 6/6 | :white_check_mark: 1/1|
 | 08 | Server-side request forgery (SSRF) | :white_check_mark: 2/2 | :white_check_mark: 3/3 | :white_check_mark: 2/2 |
-| 09 | HTTP request smuggling | - | :heavy_multiplication_x: 7/15 | :heavy_multiplication_x: 0/6 |
+| 09 | HTTP request smuggling | - | :x: 7/15 | :x: 0/6 |
 | 10 | OS command injection | :white_check_mark: 1/1 | :white_check_mark: 4/4 | - |
 | 11 | Server-side template injection | - | :white_check_mark: 5/5 | :white_check_mark: 2/2 |
 | 12 | Path traversal | :white_check_mark: 1/1 | :white_check_mark: 5/5 | - |
