@@ -1,5 +1,5 @@
 # AllPortSwiggerSolutions
-Here you will find all solutions to all tasks from the[ https://portswigger.net/](https://portswigger.net/web-security/all-labs) platform written in python
+Here you will find all solutions to all tasks from the [https://portswigger.net/](https://portswigger.net/web-security/all-labs) platform written in python
 
 
 
