@@ -45,7 +45,7 @@ Progress
 
 installation of the necessary libraries
 ```
-pip3 install requests re sys time socket pytesseract pyautogui http.client selenium bs4 PIL webbrowser pyjwt jwcrypto
+pip3 install requests re sys time socket pytesseract pyautogui http.client selenium bs4 PIL webbrowser pyjwt jwcrypto h2 certifi
 ```
 ```
 apt install exiftool
