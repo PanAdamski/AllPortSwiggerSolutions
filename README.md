@@ -25,7 +25,7 @@ Progress
 | 17 | Insecure deserialization | :white_check_mark: 1/1 | :white_check_mark: 6/6 | :white_check_mark: 3/3 |
 | 18 | Information disclosure | :white_check_mark: 4/4 | :white_check_mark: 1/1 | - |
 | 19 | Business logic vulnerabilities | :white_check_mark: 4/4 | :white_check_mark: 7/7 | :white_check_mark: 1/1 |
-| 20 | HTTP Host header attacks | :white_check_mark: 2/2 | :x: 2/4 | :white_check_mark: 1/1 |
+| 20 | HTTP Host header attacks | :white_check_mark: 2/2 | :x: 3/4 | :white_check_mark: 1/1 |
 | 21 | OAuth authentication | :white_check_mark: 1/1 | :white_check_mark: 4/4 | :white_check_mark: 1/1 |
 | 22 | File upload vulnerabilities | :white_check_mark: 2/2 | :white_check_mark: 4/4 | :x: 0/1 |
 | 23 | JWT  | :white_check_mark: 2/2 | :white_check_mark: 4/4 | :x: 0/2 |
@@ -37,7 +37,7 @@ Progress
 | 29 | API testing | :white_check_mark: 1/1 | :white_check_mark: 3/3 | :white_check_mark: 1/1 |
 | 30 | Web LLM attacks | :white_check_mark: 1/1 | :x: 1/2 | :x: 0/1 |
 | 31 | Web cache deception |  :white_check_mark: 1/1 | :x: 2/3 | :x: 1/1 |
-| x | Overall progress| :x: 58/59 | :x: 154/171 | :x: 25/39 |
+| x | Overall progress| :x: 58/59 | :x: 155/171 | :x: 25/39 |
 
 
 
