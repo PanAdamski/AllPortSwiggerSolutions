@@ -33,11 +33,11 @@ Progress
 | 25 | prototype pollution | - | :white_check_mark: 9/9 | :x: 0/1 |
 | 26 | GraphQL API vulnerabilities| :white_check_mark: 1/1 | :white_check_mark: 4/4 | - |
 | 27 | Race conditions | :x: 0/1 | :x: 0/4 | :x: 0/1 |
-| 28 | NoSQL injection | :white_check_mark: 2/2 | :x: 1/2 | - |
+| 28 | NoSQL injection | :white_check_mark: 2/2 | :white_check_mark: 2/2 | - |
 | 29 | API testing | :white_check_mark: 1/1 | :white_check_mark: 3/3 | :white_check_mark: 1/1 |
 | 30 | Web LLM attacks | :white_check_mark: 1/1 | :x: 1/2 | :x: 0/1 |
 | 31 | Web cache deception |  :white_check_mark: 1/1 | :x: 2/3 | :x: 1/1 |
-| x | Overall progress| :x: 58/59 | :x: 155/171 | :x: 26/39 |
+| x | Overall progress| :x: 58/59 | :x: 156/171 | :x: 26/39 |
 
 
 
