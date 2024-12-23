@@ -1,0 +1,3 @@
+I could not find the cause of my token being signed incorrectly. So I used a ready-made tool like jwt_tool :/.
+
+
